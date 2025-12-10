@@ -37,7 +37,8 @@ It then applies routing rules:
 ###  Clone the repository
 git clone https://github.com/SureNarendra341/autonomous-claims-agent.git
 
-### 1. Backend
+
+
 
 ```bash
 cd backend
