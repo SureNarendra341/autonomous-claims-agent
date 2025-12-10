@@ -39,7 +39,7 @@ git clone https://github.com/SureNarendra341/autonomous-claims-agent.git
 
 
 
-
+### 1.backend
 ```bash
 cd backend
 npm install
@@ -54,8 +54,7 @@ MongoDB connected
 Server running on port 5000
 
 
-### 1. Frontend
-
+### 2. frontend
 ```bash
 cd frontend
 npm install
